@@ -17,7 +17,6 @@
 6. Open _**Any Web Browser**_ and type the Url : _**"localhost:5000"**_.
 7. Website will be Running.
 
-***
 ### • **_A Glimpse of The Website :_**
 
 ![GIF](readme_resources/Code_Execution_Engine.gif)
